@@ -5,8 +5,11 @@ import Image from "next/image"
 import Link from "next/link"
 import { useRouter } from "next/navigation";
 import { FormEvent } from "react";
+import ChatBot from "react-chatbotify";
+// import "./ChatbotStyle.css"
 
 const Header = () => {
+    
     const router = useRouter();
 
     const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
@@ -88,6 +91,10 @@ const Header = () => {
                     <p>$0.00</p>
                 </div>
             </Link>
+
+        </div>
+        <div className="z-10 position-absolute">
+            <ChatBot  />
         </div>
     </header>
   )

@@ -15,9 +15,11 @@
     "lucide-react": "^0.336.0",
     "next": "14.1.0",
     "react": "^18",
+    "react-chatbotify": "^2.0.0-beta.4",
     "react-dom": "^18",
     "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "walmart-clone": "file:"
   },
   "devDependencies": {
     "@types/node": "^20",
