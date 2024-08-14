@@ -53,22 +53,4 @@ OXYLABS_PASSWORD=your_password
 
 Contributions to the Walmart Clone project are welcome! Feel free to report issues, suggest improvements, or submit pull requests.
 
-## Credits
-
-- Oxylabs
-- Zustand
-- Shadcn
-- **Tutor**: Sonny Sangha
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contact
-
-- **Twitter**: [@_emmanuelakinbo](https://twitter.com/_emmanuelakinbo)
-- **Instagram**: [@_emmanuelakinbo](https://instagram.com/_emmanuelakinbo)
-- **Email**: emmanuelakinbo176@gmail.com
-- **LinkedIn**: [Emmanuel Akinbo](https://www.linkedin.com/in/emmanuel-akinbo)
-
 ---
