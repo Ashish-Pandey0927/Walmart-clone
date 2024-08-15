@@ -20,6 +20,12 @@ const nextConfig = {
           },
         ],
     },
+    routes: [
+      {
+        path: "/dashboard",
+        component: "pages/Dashboard",
+      },
+    ],
 };
 
 export default nextConfig;
